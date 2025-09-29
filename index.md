@@ -8,20 +8,21 @@
 
 <img src="images/maternity_care_woc2.jpg?raw=true"/>
 
+<b><u>Tools Used</u></b>: Python, AWS (Lambda, Bedrock, S3), Swift, Apple CoreML, YOLOv11 
+
 ---
 [Airbnb Booking Chatbot](https://www.ischool.berkeley.edu/projects/2024/olivia-ai-travel-assistant)
-)
 
 <img src="images/wordcloud.png?raw=true"/>---
 
-<b><u>Tools Used</u></b>: Python, Pandas, Seaborn, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
+<b><u>Tools Used</u></b>: Python, Langchain, FAISS, AWS, sentence-transformers, NumPy, Matplotlib
 
 ---
-[How effectively can small LLMs generate correct SQL from human instruction?](/203_big_families.md)
+[How effectively can small LLMs generate correct SQL from human instruction?](/pdf/W266_Final_Project_CodeT5-SQL_Ball_and_Reddy.pdf)
 
 <img src="images/brady_bunch_stairs2.jpg?raw=true"/>
 
-<b><u>Tools Used</u></b>: R, RStudio
+<b><u>Tools Used</u></b>: sentence-transformers, AWS, Python
 
 ---
 [Do Democrats or Republicans find it more difficult to vote?](/203_voting_difficulty_page.md)
