@@ -9,7 +9,8 @@
 <img src="images/maternity_care_woc2.jpg?raw=true"/>
 
 ---
-[Airbnb Booking Chatbot](/mental_health.md)
+[Airbnb Booking Chatbot](https://www.ischool.berkeley.edu/projects/2024/olivia-ai-travel-assistant)
+)
 
 <img src="images/wordcloud.png?raw=true"/>---
 
