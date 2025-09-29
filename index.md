@@ -45,7 +45,7 @@
 
    <img src="images/Plato_Aristotle.jpg?raw=true"/>
 
-[Democratic and Constitutionalist Elements in Khomeini's Unveiling of Secrets and Islamic Government](/pdf/journal_of_political_ideologies_nura.pdf)
+[Improving_MultiOmyx_TM_Analytics_cell_classification_workflow_efficiency_by_Invariant_Information_Clustering_on_historical_data](https://www.researchgate.net/publication/352918639_Abstract_154_Improving_MultiOmyx_TM_Analytics_cell_classification_workflow_efficiency_by_Invariant_Information_Clustering_on_historical_data)
   
 [Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
 
