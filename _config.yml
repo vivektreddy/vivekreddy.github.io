@@ -3,13 +3,13 @@ description: Data Scientist | AI Engineer
 theme: minima
 
 title: Vivek Reddy
-logo: "/images/nura_image_final.png?raw=true" 
+logo: "/images/portrait.jpg?raw=true" 
  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist with a diverse background in healthcare and insurance analytics.
   <br><br>
   
-  <a href="/about_me.md" style="font-size: 18px;">About Me</a>
+  <a href="/about_me" style="font-size: 18px;">About Me</a>
   <br><br>
   <a href="/pdf/vivek_resume.pdf" style="font-size: 18px;">View My Resume</a> 
   <br><br>
