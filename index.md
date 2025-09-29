@@ -45,9 +45,9 @@
 
    <img src="images/Plato_Aristotle.jpg?raw=true"/>
 
-[Improving_MultiOmyx_TM_Analytics_cell_classification_workflow_efficiency_by_Invariant_Information_Clustering_on_historical_data](https://www.researchgate.net/publication/352918639_Abstract_154_Improving_MultiOmyx_TM_Analytics_cell_classification_workflow_efficiency_by_Invariant_Information_Clustering_on_historical_data)
+[Improving MultiOmyx TM Analytics cell classification workflow efficiency by Invariant Information Clustering on historical data](https://www.researchgate.net/publication/352918639_Abstract_154_Improving_MultiOmyx_TM_Analytics_cell_classification_workflow_efficiency_by_Invariant_Information_Clustering_on_historical_data)
   
-[Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](/pdf/journal_of_shia_islamic_studies_nura.pdf)
+[Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](https://www.researchgate.net/publication/345216028_Abstract_3881_Distinguishing_dendritic_cell_subtypes_in_the_tumor_microenvironment_using_MultiOmyx_TM)
 
 [Political Thought in Contemporary Iran: Ayatollah Javadi Amoli's Theory of Guardianship](/pdf/afro_middle_east_centre_proceedings.pdf)
 
