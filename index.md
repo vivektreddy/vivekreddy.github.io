@@ -61,13 +61,13 @@
 
 ### Education
 
-<img src="images/UC_Berkeley_logo.png?raw=true"/>
+<img src="images/UC_Berkeley_logo.jpg?raw=true"/>
 
 2022-2024: [Master of Information and Data Science, UC Berkeley](https://www.ischool.berkeley.edu/programs/mids)
 
 2016: [B.S., Computational and Systems Biology, UCLA](https://polisci.berkeley.edu/)
 
-<img src="images/campus-logo.png?raw=true"/>
+<img src="images/campus-logo.jpg?raw=true"/>
  
 
 ---
@@ -78,7 +78,7 @@
 
 2024-2025: Data Engineer, Venture Connect
 
-<img src="images/moter_technologies_logo.png?raw=true"/>
+<img src="images/moter_technologies_logo.jpg?raw=true"/>
 
 2022-2023: Data Scientist 1 & 2, MOTER Technologies
 
