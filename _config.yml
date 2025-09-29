@@ -11,7 +11,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/vivek-reddy/" style="font-size: 18px;">View My LinkedIn Profile</a>
 
+
+url: "https://vivektreddy.github.io"
+baseurl: ""   # must be empty for user sites
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
