@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Me
+permalink: /about_me/
+---
+
 ## About Me
 
 I am a graduate of the Master of Information and Data Science program at UC Berkeley, with a B.S. in Computational and Systems Biology from UCLA. My path into data science began in the life sciences and has since spanned healthcare, insurance, and applied machine learning. Early in my career, I worked as a computational biologist at Neogenomics Laboratories, where I applied statistical and unsupervised learning methods to cellular morphology data, looking for patterns that could inform cancer diagnostics. This experience showed me the power of quantitative methods to uncover hidden insights in complex biological systems.
