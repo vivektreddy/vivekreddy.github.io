@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Can LLMs Help the Blind Navigate a Grocery Store?](/woc_childbirth.md)
+[Can LLMs Help the Blind Navigate a Grocery Store?](https://docs.google.com/document/d/1UXygXWC_ES8dVehHRHlC8Mem_8Xl90kC3t0epgJoyzE/edit?tab=t.0)
 
 <img src="images/maternity_care_woc2.jpg?raw=true"/>
 
@@ -22,22 +22,15 @@
 
 <img src="images/brady_bunch_stairs2.jpg?raw=true"/>
 
-<b><u>Tools Used</u></b>: sentence-transformers, AWS, Python
+<b><u>Tools Used</u></b>: sentence-transformers, AWS, Python, PostgreSQL
 
 ---
-[Do Democrats or Republicans find it more difficult to vote?](/203_voting_difficulty_page.md)
+[Can Flight Delay be Predicted in Advance?](/203_voting_difficulty_page.md)
 
 <img src="images/voting-booths-with-no-people.jpg?raw=true"/>
 
-<b><u>Tools Used</u></b>: R, RStudio
-
----
-[Tracking Refugee Movement Around the World](/refugees.md)
-
-<img src="images/neo4j_graph_refugees.png?raw=true"/>
-
-<b><u>Tools Used</u></b>: Neo4j, PostgreSQL, Pandas, Numpy, Matplotlib, Scikit-learn
-
+<b><u>Tools Used</u></b>: PySpark, HDFS, Pandas, Numpy, Matplotlib
+ 
 
 ---
 
@@ -47,13 +40,9 @@
 
 [Improving MultiOmyx TM Analytics cell classification workflow efficiency by Invariant Information Clustering on historical data](https://www.researchgate.net/publication/352918639_Abstract_154_Improving_MultiOmyx_TM_Analytics_cell_classification_workflow_efficiency_by_Invariant_Information_Clustering_on_historical_data)
   
-[Ruhollah Khomeini's Political Thought: Elements of Guardianship, Consent, and Representative Government](https://www.researchgate.net/publication/345216028_Abstract_3881_Distinguishing_dendritic_cell_subtypes_in_the_tumor_microenvironment_using_MultiOmyx_TM)
+[Distinguishing dendritic cell subtypes in the tumor microenvironment using MultiOmyx TM](https://www.researchgate.net/publication/345216028_Abstract_3881_Distinguishing_dendritic_cell_subtypes_in_the_tumor_microenvironment_using_MultiOmyx_TM)
 
-[Political Thought in Contemporary Iran: Ayatollah Javadi Amoli's Theory of Guardianship](/pdf/afro_middle_east_centre_proceedings.pdf)
-
-[What Beauvoir Got--and Didn't Get--about Motherhood](https://philosophynow.org/issues/168/What_Simone_de_Beauvoir_Got_-_And_Didnt_Get_-_About_Motherhood)
-
-[Unheard Voices: How Prejudice Fuels the Killing of Innocents Here and Abroad](https://www.commondreams.org/opinion/anti-muslim-prejudice-burlington-shooting)
+[Using a multiplexed immunofluorescence approach to compare immune cell populations in subtypes of non-small cell lung cancer](https://www.researchgate.net/publication/339895801_Using_a_multiplexed_immunofluorescence_approach_to_compare_immune_cell_populations_in_subtypes_of_non-small_cell_lung_cancer)
 
 ## More about My Background
 
@@ -76,7 +65,7 @@
 
 <img src="images/stanford_logo.jpg?raw=true"/>
 
-2024-2025: Data Engineer, Venture Connect
+2024-2025: Data Engineer, Enterprice 501C
 
 <img src="images/moter_technologies_logo.jpg?raw=true"/>
 
