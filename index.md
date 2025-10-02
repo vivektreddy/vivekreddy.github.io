@@ -24,15 +24,7 @@
 
 <b><u>Tools Used</u></b>: sentence-transformers, AWS, Python, PostgreSQL
 
----
-[Can Flight Delay be Predicted in Advance?](/203_voting_difficulty_page.md)
-
-<img src="images/voting-booths-with-no-people.jpg?raw=true"/>
-
-<b><u>Tools Used</u></b>: PySpark, HDFS, Pandas, Numpy, Matplotlib
- 
-
----
+---  
 
 ### Publications
 
@@ -43,9 +35,7 @@
 [Distinguishing dendritic cell subtypes in the tumor microenvironment using MultiOmyx TM](https://www.researchgate.net/publication/345216028_Abstract_3881_Distinguishing_dendritic_cell_subtypes_in_the_tumor_microenvironment_using_MultiOmyx_TM)
 
 [Using a multiplexed immunofluorescence approach to compare immune cell populations in subtypes of non-small cell lung cancer](https://www.researchgate.net/publication/339895801_Using_a_multiplexed_immunofluorescence_approach_to_compare_immune_cell_populations_in_subtypes_of_non-small_cell_lung_cancer)
-
-## More about My Background
-
+ 
 ---
 
 ### Education
@@ -75,30 +65,4 @@
 
 2018-2022: Associate Scientist 1 & 2, Neogenomics Laboratories
 
----
-
-## Courses Taught
-
-### Humanities
-- Structured Liberal Education (a freshman "great books" program), Stanford University, 2019-2022, [Sample Fall Syllabus](http://slesyllabus.pbworks.com/w/page/147418581/Fall%202122%20Syllabus%20Archived), [Sample Winter Syllabus](http://slesyllabus.pbworks.com/w/page/148628034/Winter%20Syllabus%202122%20archived), [Sample Spring Syllabus](http://slesyllabus.pbworks.com/w/page/146199789/SLE%20syllabus%20Spring%202021%20archived)  
-
-### Iranian and Islamic Political Thought
-- Modern Iran, Princeton, Fall 2017; Spring 2019 
-- Khomeini’s Islamic Republic, Princeton, Spring 2019 
-- Feminist Political Theory: Iran and the West, Princeton, Spring 2018 
-- Islam and Government in Iran and Saudi Arabia, Princeton, Spring 2018 
-- Liberalism, Democracy, and Iranian Political Thought, Princeton Fall 2017  
-- Modern Arab Political Thought, UC Berkeley, Spring 2013 
-
-### Political Theory
-- Comparative Political Theory, Georgetown, Spring 2017 
-- Contemporary Moral and Political Issues, San Francisco State University, Fall 2012 
-- Introduction to Political Theory, UC Berkeley, Spring 2014; Spring 2009
-- Law, Self & Society, UC Berkeley, Fall 2011 
-- History of European Political Theory: The Twentieth Century, UC Berkeley, Spring 2010 
-
-### American Politics
-- American Politics, San Francisco State University, Spring 2013 
-- Judicial Process, San Francisco State University, Fall 2012 
-- Introduction to American Politics, UC Berkeley, Spring 2011, Fall 2010; Summer 2010; Fall 2009; Fall 2008 
-- California Politics, UC Berkeley, Fall 2013 
+ 
